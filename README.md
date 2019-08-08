@@ -61,5 +61,5 @@ This should result in the creation of ``{your-cv}.pdf``
 You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything 
 else without my permission, though!
 
-If you have any questions, feel free to contact me on one of the available options on my [blog](https://coderade.github.io/)
+If you have any questions, feel free to contact me on one of the available options on my [blog](https://coderade.github.io/).
 
