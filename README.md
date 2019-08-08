@@ -1,7 +1,7 @@
 ## my-latex-resume
 
 This project contains a LaTeX template for my [resume](https://coderade.github.io/resume/valdeci-resume.pdf) based on 
-the [posquit0](https://github.com/posquit0) [Awesome-CV](https://github.com/posquit0/Awesome-CV) project.
+the [posquit0](https://github.com/posquit0) [Awesome-CV](https://github.com/coderade/my-latex-resume) project.
 
 This project is easy to customize your own template, especially since it is really written by a clean,
 semantic markup.
@@ -15,7 +15,7 @@ You can see [PDF](https://coderade.github.io/resume/valdeci-resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-0.png)](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-1.png)](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-0.png)](https://coderade.github.io/resume/valdeci-resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-1.png)](https://coderade.github.io/resume/valdeci-resume.pdf) |
 
 
 ## Quick Start
