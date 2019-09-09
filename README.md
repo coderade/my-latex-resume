@@ -1,6 +1,6 @@
 ## my-latex-resume
 
-This project contains a LaTeX template for my [resume](https://coderade.github.io/resume/valdeci-resume.pdf) based on 
+This project contains a LaTeX template for my [resume](https://valde.ci/resume/valdeci-resume.pdf) based on 
 the [posquit0](https://github.com/posquit0) [Awesome-CV](https://github.com/coderade/my-latex-resume) project.
 
 This project is easy to customize your own template, especially since it is really written by a clean,
@@ -11,11 +11,11 @@ semantic markup.
 
 #### Résumé
 
-You can see [PDF](https://coderade.github.io/resume/valdeci-resume.pdf)
+You can see [PDF](https://valde.ci/resume/valdeci-resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-0.png)](https://coderade.github.io/resume/valdeci-resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-1.png)](https://coderade.github.io/resume/valdeci-resume.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-0.png)](https://valde.ci/resume/valdeci-resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/coderade/my-latex-resume/master/examples/resume-1.png)](https://valde.ci/resume/valdeci-resume.pdf) |
 
 
 ## Quick Start
@@ -61,5 +61,4 @@ This should result in the creation of ``{your-cv}.pdf``
 You are free to take my `.tex` file and modify it to create your own resume. **Please don't use my resume for anything 
 else without my permission, though!**
 
-If you have any questions, feel free to contact me on one of the available options on my [blog](https://coderade.github.io/).
-
+If you have any questions, feel free to contact me on one of the available options on my [blog](https://valde.ci/).
